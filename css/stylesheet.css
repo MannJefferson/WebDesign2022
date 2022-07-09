@@ -91,3 +91,9 @@ a:hover {
   text-decoration: underline;
 }
 
+@media screen and (max-width:850px){
+#heading{
+  color: red;
+  font-size: x-small;
+}
+}
