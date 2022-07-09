@@ -14,14 +14,14 @@ body {
   overflow: unset;
 
 }
-
+/*
 #profilePhoto {
-  width: 10%;
+ width: 10%;
   height: 50%;
-  border-radius: 50%;
+  border-radius: 100%;
   border: 5px solid #808080;
   border-color:#666699 ;
-}
+}*/
 
 /* section of the profile pic and intro*/
 header {
