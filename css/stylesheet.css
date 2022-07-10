@@ -93,7 +93,8 @@ a:hover {
 
 @media screen and (max-width:850px){
 #heading{
-  color: red;
-  font-size: x-small;
+  color: #2a501e;
+  font-size:small;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 }
