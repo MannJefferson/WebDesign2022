@@ -101,10 +101,11 @@ a:hover {
 }
 
 @media screen and (max-width:650px){
-  #sidebar{
+  #sidebar .navList{
     color: #291e50;
     font-size:small;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
   }
   
   }
