@@ -142,7 +142,17 @@ a:hover {
    }
 
    .carousel-item{
-    height:25rem;
-    background:#777;
+    height:20rem;
+    background:#b2beb5 ;
+    color:#4f3a3c;
+    position:relative
+    
    }
   
+   .container{
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    padding-bottom:50px;
+   }
