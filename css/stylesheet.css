@@ -133,11 +133,16 @@ a:hover {
    svg{
     height: 1em;
     margin-left: 40px;
-    margin-top: 10px;
+    margin-top: 10px
+    
    }
 
    #head{
     font-weight: bold;
    }
 
+   .carousel-item{
+    height:25rem;
+    background:#777;
+   }
   
