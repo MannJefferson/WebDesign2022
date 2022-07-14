@@ -119,6 +119,7 @@ a:hover {
   #exp{
     background: #CDCDCF;
     padding: 10px;
+    margin-left: 0px;
    }
 
    #ent{
@@ -132,14 +133,11 @@ a:hover {
    svg{
     height: 1em;
     margin-left: 40px;
+    margin-top: 10px;
    }
 
    #head{
     font-weight: bold;
    }
 
-   .box{
-    height: 20px;
-    width: 20px;
-    background: black;
-   }
+  
