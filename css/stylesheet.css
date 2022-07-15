@@ -201,6 +201,7 @@ svg {
 #ui {
   display: grid;
   grid-template-columns: 0.4fr 0.5fr;
+  padding-left: 2%;
 }
 
 .skills {
@@ -237,4 +238,9 @@ body {
   height: 7px;
   margin-top: 20px;
   background: #666699;
+}
+
+a:hover {
+  text-decoration: underline;
+  color:#4f3a3c;
 }
