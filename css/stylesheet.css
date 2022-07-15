@@ -172,6 +172,7 @@ svg {
   left: 0;
   right: 0;
   padding-bottom: 50px;
+  
 }
 
 .overlay-image {
@@ -194,21 +195,24 @@ svg {
 #contacts {
   background: #778899;
   padding: 10px;
+  text-align: center;
 }
 
 #ui {
   display: grid;
-  grid-template-columns: 0.2fr 0.5fr;
+  grid-template-columns: 0.4fr 0.5fr;
 }
 
 .skills {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
+  
 }
 
 #skills {
   background: #778899;
   padding: 10px;
+  text-align: center;
 }
 
 #progress-bar {
