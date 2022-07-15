@@ -189,6 +189,7 @@ svg {
 .topM {
   margin-top: 40px;
   margin-bottom: 20px;
+  align-items: center;
 }
 
 
@@ -196,6 +197,10 @@ svg {
   background: #778899;
   padding: 10px;
   text-align: center;
+}
+
+#space{
+  margin-left: 20px;
 }
 
 #ui {
@@ -243,4 +248,9 @@ body {
 a:hover {
   text-decoration: underline;
   color:#4f3a3c;
+}
+
+#contactme{
+  background-color: #778899;
+  padding-bottom: 2%;
 }
