@@ -110,102 +110,120 @@ a:hover {
   
   }*/
 
-  #exp1{
-    margin-right: 20px;
-    display: grid;
-    grid-template-columns: 1fr 2fr 4fr;
-  }
+#exp1 {
+  margin-right: 20px;
+  display: grid;
+  grid-template-columns: 1fr 2fr 4fr;
+}
 
-  #exp{
-    background: #CDCDCF;
-    padding: 10px;
-    margin-left: 0px;
-   }
+#exp {
+  background: #778899;
+  /*#CDCDCF */
+  padding: 10px;
+  margin-left: 0px;
+}
 
-   #ent{
-    margin-top: 0px;
-   }
+#ent {
+  margin-top: 0px;
+}
 
-   p{
-    text-align: justify;
-   }
+p {
+  text-align: justify;
+}
 
-   svg{
-    height: 1em;
-    margin-left: 40px;
-    margin-top: 10px
-    
-   }
+li{
+  font-size:large;
+  color:#f4f0ec;
+}
 
-   #head{
-    font-weight: bold;
-   }
+svg {
+  height: 1em;
+  margin-left: 40px;
+  margin-top: 10px
+}
 
-   .carousel-item{
-    height:20rem;
-    background:#000000;
-    color:#ffffff;
-    position:relative
-     
-   }
-  
-   .carousel-item p{
+#head {
+  font-weight: bold;
+}
 
-font-size: xx-large;
+.carousel-item {
+  height: 20rem;
+  background: #000000;
+  color: #ffffff;
+  position: relative
+}
 
-   }
-   #container{
-    position:relative;
-    bottom:0;
-    left:0;
-    right:0;
-    padding-bottom:50px;
-   }
+.carousel-item p {
 
-   .overlay-image{
-    position:absolute;
-    bottom:0;
-    left:0;
-    right:0;
-    top:0;
-    background-position:center;
-    background-size:cover;
-    opacity:0.5;
-   }
-   
-   .topM{
-    margin-top: 40px;
-    margin-bottom: 20px;
-   }
+  font-size: xx-large;
+
+}
+
+#container {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-bottom: 50px;
+}
+
+.overlay-image {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  background-position: center;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.topM {
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
 
 
-   #contacts{
-    background: #CDCDCF;
-    padding: 10px;
-   }
+#contacts {
+  background: #778899;
+  padding: 10px;
+}
 
-   #ui{
-    display: grid;
-    grid-template-columns: 0.2fr 0.5fr;
-   }
-   .skills{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-   }
+#ui {
+  display: grid;
+  grid-template-columns: 0.2fr 0.5fr;
+}
 
-   #skills{
-    background: #CDCDCF;
-    padding: 10px;
-   }
+.skills {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
-   #progress-bar{
-    background: #CDCDCF;
-    height: 10px;
-    margin-top: 5px;
-    width: 100px;
-   }
-   #progress{
-    background: rgb(177, 11, 11);
-    height: 10px;
-    width: 80px;
-   }
+#skills {
+  background: #778899;
+  padding: 10px;
+}
+
+#progress-bar {
+  background: #808080;
+  height: 10px;
+  margin-top: 5px;
+  width: 100px;
+}
+
+#progress {
+  background: rgb(177, 11, 11);
+  height: 10px;
+  width: 80px;
+}
+
+body {
+  background-color: #f4f0ec;
+}
+
+#underline {
+  width: 350px;
+  height: 7px;
+  margin-top: 20px;
+  background: #666699;
+}
