@@ -143,16 +143,28 @@ a:hover {
 
    .carousel-item{
     height:20rem;
-    background:#b2beb5 ;
+    background:#000000;
     color:#4f3a3c;
     position:relative
-    
+       
    }
   
-   .container{
-    position:absolute;
+   #container{
+    position:relative;
     bottom:0;
     left:0;
     right:0;
     padding-bottom:50px;
    }
+
+   .overlay-image{
+    position:absolute;
+    bottom:0;
+    left:0;
+    right:0;
+    top:0;
+    background-position:center;
+    background-size:cover;
+    opacity:0.5;
+   }
+   
