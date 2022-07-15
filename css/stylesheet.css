@@ -144,11 +144,16 @@ a:hover {
    .carousel-item{
     height:20rem;
     background:#000000;
-    color:#4f3a3c;
+    color:#ffffff;
     position:relative
-       
+     
    }
   
+   .carousel-item p{
+
+font-size: xx-large;
+
+   }
    #container{
     position:relative;
     bottom:0;
