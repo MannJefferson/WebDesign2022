@@ -235,7 +235,8 @@ svg {
 }
 
 body {
-  background-color: #f4f0ec;
+ /* background-color: #f4f0ec;*/
+  background-image: url(/Images/greypic.jpg);
 }
 
 #underline {
