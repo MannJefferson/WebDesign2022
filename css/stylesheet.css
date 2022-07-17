@@ -121,6 +121,13 @@ a:hover {
   filter:grayscale(0%);
 }
 
+@media screen and (max-width:567px) {
+ img  .mobile{
+    /*display:url(/Images/profilePhotom.jpg);*/
+    display: visible;
+  }
+  
+}
 
 #exp1 {
   margin-right: 20px;
